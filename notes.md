@@ -53,7 +53,7 @@
 *	Some of the choices I made were simple (Ashbel Smith got misspelled a LOT, or “the secretary of the state of Texas [Allen]” being merged with “Secretary of State [Allen]”), but others were more complex. For example, I saw a Lord Russell and an M. P. Russell while I was working my way through the recipients, and knew that MP is shorthand for Member of Parliament. A quick google search took me to Earl John Russell’s Wikipedia page, which told me that John Russell was both a Lord and an MP in the 1840s (when the correspondence occurred). Because of this, I was able to change the two to “Lord Russell [M.P.]”
     * Note: I tried the same for Senator of State [Rej6n] and Joaquin G. Rej6n but was unable to find any actual information, so I left them alone
 *	Dr. Graham quote I liked: _When we stitch that together into a network of people connected because they exchanged letters, we end up with a shard of their social network. – this is fascinating to think of; despite the fact that we aren’t reading the letters we are still seeing names and patterns emerge_
-  *	http://scottbot.net/networks-demystified-9-modality/ This is very cool
+  *	[This is very cool](http://scottbot.net/networks-demystified-9-modality/)
   *	2 key questions for networks (If either answer is negative, another approach is probably warranted):
     * To what extent is connectivity specifically important to this research project?
     *	Can any of the network analyses my collaborators or I know how to employ be specifically useful in the research project? 
