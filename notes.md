@@ -32,7 +32,7 @@
 * To enable regex searches, tick the box that has .* in the search panel 
 * You can’t simply replace every instance of “dog” or “cat” with “animal” (for example) because simple searches don’t differentiate between letters and spaces. So every time “cat” or “dog” appear within words, they’ll also be replaced with “animal”. “catch” will become “animalch” etc. [My favourite example of this happening can be found here.](https://thatsnotevenaword.tumblr.com/post/84788491945/oh-my-fucking-god-so-im-reading-this-harry)
   * To search for only “cat” you would have to do \<cat\>  ;  to search for only “cat or dog” you would have to do \<cat|dog\>
-* (Some) Regex search terms (for a more complete list, see: https://jdhao.github.io/2019/02/28/sublime_text_regex_cheat_sheet/): 
+* (Some) Regex search terms ([more complete list here](https://jdhao.github.io/2019/02/28/sublime_text_regex_cheat_sheet/)) 
   * | = or
   * \< OR \b = the beginning of a word (note: figure out which yours is)
     * Ex: \<cat (or \bcat)
