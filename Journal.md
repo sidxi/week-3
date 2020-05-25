@@ -2,7 +2,7 @@
 I had a lot of thoughts this week, so I’ve tried to group them as effectively as possible instead of giving you something more stream of consciousness. Read in order, or skip through the following sections to the parts that interest you:
 * [Advances in problem-solving](#Advances-in-problem-solving)
 * [Reflecting on the readings and my editorial choices](#Reflecting-on-the-readings-and-my-editorial-choices) 
-* [Using what I’m learning in the real world](#Using-what-I’m-learning-in-the-real-world)
+* [Using what I’m learning in the real world](##Using-what-I’m-learning-in-the-real-world)
 
 ## Advances in problem-solving
 I feel like I accomplished a lot this week! Not only in terms of the assignment, but also in terms of my problem-solving. I had far more errors in comparison to last week, which was sometimes frustrating, but sometimes amazing (once I’d figured it out, of course!). For the majority of my errors, I was able to take a deep breath, walk away for a little bit, and fix them later. Of course, I still made silly mistakes – for example, when first uploading my data into OpenRefine I was confused by the fact that I didn’t have any column titles. After going through the assignment instructions a second time, I realized I’d forgotten to add them in my .csv file! Once I’d done that, things everything had changed. There are also still things that left me wanting a better solution, such as the database.io error many of my classmates also experienced: 
